@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Santiago Dubon (@sdubonsa)
 
 ### 📚 What am I learning?
-I am currently a student at The University of North Carolina at Charlotte studying Computer Science with a concentration in Cyber Security!
+I am currently a student at The University of North Carolina at Charlotte studying Computer Science with a concentration in Software Engineering!
 <br>
 <br> In addition to my degree, I am working on The Odin Project and the Scrimba curiculum to improve my web development skills. I am currently learning MongoDB, React, and Node.js on there!
 
