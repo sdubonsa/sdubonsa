@@ -1,9 +1,16 @@
 # 👋 Hi, I’m Santiago Dubon (@sdubonsa)
 
-### 📚 What am I learning?
-I am currently a student at The University of North Carolina at Charlotte studying Computer Science with a concentration in Software Engineering!
+### What do I do?
+I am a Software Engineer II at LPL Financial working on as a Full Stack Engineer using technologies such as .NET / C#, Mongo, Terraform, AWS, and more!
 <br>
-<br> In addition to my degree, I am working on The Odin Project and the Scrimba curiculum to improve my web development skills. I am currently learning MongoDB, React, and Node.js on there!
+
+### 📚 What am I learning?
+I am currently a Master's student at The University of North Carolina at Charlotte studying Computer Science.
+<br>
+
+### Certification
+AI Certified Practioner (in-progress)
+<br>
 
 ### 🏗️ Projects
 I am currently working on building a couple of different projects to improve my skills! You can check them all on my profile. <br>
